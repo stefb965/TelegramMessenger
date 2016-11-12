@@ -1,0 +1,4 @@
+name: TelegramMessenger
+main: biz.princeps.TelegramMessenger
+version: 1.0
+author: SpatiumPrinceps
